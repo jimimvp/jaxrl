@@ -35,7 +35,7 @@ tensorflow-probability = "*"
 imageio = "*"
 imageio-ffmpeg = "*"
 mujoco-py = "*"
-d4rl = {git = "https://github.com/jimimvp/d4rl.git"}
+d4rl = {git = "https://github.com/jimimvp/D4RL.git"}
 dm-control = "^1.0.2"
 wandb = "^0.12.16"
 
